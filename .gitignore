@@ -1,0 +1,13 @@
+# cache directories
+Thumbs.db
+*.DS_Store
+*.empty
+*.idea
+
+# ignore local config files
+config.php
+config-dev.php
+index-dev.php
+/protected/config/dev.php
+/protected/data/yiicart.sql
+/protected/extensions/lyiightbox
